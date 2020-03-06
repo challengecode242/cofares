@@ -1,0 +1,60 @@
+2020-01-30 14:23:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTIONS" not found; SQL statement:
+INSERT INTO Transactions (order, ammount, originacc, destinationacc, create_at, account, description) VALUES('12925A', 393.38, '3234232432', '34242323234', NOW(), NOW(), 'Restaurant payment') [42102-200]
+2020-01-30 14:23:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTIONS" not found; SQL statement:
+INSERT INTO Transactions (order, ammount, originacc, destinationacc, create_at, account, description) VALUES('12925A', 393.38, '3234232432', '34242323234', NOW(), NOW(), 'Theater payment') [42102-200]
+2020-01-30 16:13:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTIONS" not found; SQL statement:
+INSERT INTO Transactions (order, ammount, originacc, destinationacc, create_at, account, description) VALUES('12925A', 393.38, '3234232432', '34242323234', NOW(), NOW(), 'Restaurant payment') [42102-200]
+2020-01-30 16:13:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTIONS" not found; SQL statement:
+INSERT INTO Transactions (order, ammount, originacc, destinationacc, create_at, account, description) VALUES('12925A', 393.38, '3234232432', '34242323234', NOW(), NOW(), 'Theater payment') [42102-200]
+2020-01-30 16:19:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTIONS" not found; SQL statement:
+INSERT INTO Transactions (order, ammount, originacc, destinationacc, create_at, account, description) VALUES('12925A', 393.38, '3234232432', '34242323234', NOW(), NOW(), 'Restaurant payment') [42102-200]
+2020-01-30 16:19:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTIONS" not found; SQL statement:
+INSERT INTO Transactions (order, ammount, originacc, destinationacc, create_at, account, description) VALUES('12925A', 393.38, '3234232432', '34242323234', NOW(), NOW(), 'Theater payment') [42102-200]
+2020-01-30 16:23:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTIONS" not found; SQL statement:
+INSERT INTO Transactions (order, ammount, originacc, destinationacc, create_at, account, description) VALUES('12925A', 393.38, '3234232432', '34242323234', NOW(), NOW(), 'Restaurant payment') [42102-200]
+2020-01-30 16:23:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTIONS" not found; SQL statement:
+INSERT INTO Transactions (order, ammount, originacc, destinationacc, create_at, account, description) VALUES('12925A', 322.38, '3232222222', '34242323234', NOW(), NOW(), 'Theater payment') [42102-200]
+2020-01-30 16:24:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTIONS" not found; SQL statement:
+INSERT INTO Transactions (order, ammount, originacc, destinationacc, create_at, order_at, account, description) VALUES('12925A', 393.38, '3234232432', '34242323234', NOW(), NOW(), 'Restaurant payment') [42102-200]
+2020-01-30 16:24:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTIONS" not found; SQL statement:
+INSERT INTO Transactions (order, ammount, originacc, destinationacc, create_at, order_at, account, description) VALUES('12925A', 322.38, '3232222222', '34242323234', NOW(), NOW(), 'Theater payment') [42102-200]
+2020-01-30 16:25:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTIONS" not found; SQL statement:
+INSERT INTO Transactions (order, ammount, originacc, destinationacc, create_at, order_at, description) VALUES('12925A', 393.38, '3234232432', '34242323234', NOW(), NOW(), 'Restaurant payment') [42102-200]
+2020-01-30 16:25:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTIONS" not found; SQL statement:
+INSERT INTO Transactions (order, ammount, originacc, destinationacc, create_at, order_at, description) VALUES('12925A', 322.38, '3232222222', '34242323234', NOW(), NOW(), 'Theater payment') [42102-200]
+2020-01-30 16:39:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTIONS" not found; SQL statement:
+INSERT INTO Transactions (order, ammount, originacc, destinationacc, create_at, order_at, description) VALUES('12925A', 393.38, '3234232432', '34242323234', NOW(), NOW(), 'Restaurant payment') [42102-200]
+2020-01-30 16:39:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTIONS" not found; SQL statement:
+INSERT INTO Transactions (order, ammount, originacc, destinationacc, create_at, order_at, description) VALUES('12925A', 322.38, '3232222222', '34242323234', NOW(), NOW(), 'Theater payment') [42102-200]
+2020-01-30 16:53:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTIONS" not found; SQL statement:
+INSERT INTO Transactions (order, ammount, originacc, destinationacc, create_at, order_at, description) VALUES('12925A', 393.38, '3234232432', '34242323234', NOW(), NOW(), 'Restaurant payment') [42102-200]
+2020-01-30 16:53:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTIONS" not found; SQL statement:
+INSERT INTO Transactions (order, ammount, originacc, destinationacc, create_at, order_at, description) VALUES('12925A', 322.38, '3232222222', '34242323234', NOW(), NOW(), 'Theater payment') [42102-200]
+2020-01-30 16:55:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTIONS" not found; SQL statement:
+INSERT INTO Transactions (order, ammount, originacc, destinationacc, create_at, order_at, description) VALUES('12925A', 393.38, '3234232432', '34242323234', NOW(), NOW(), 'Restaurant payment') [42102-200]
+2020-01-30 16:55:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTIONS" not found; SQL statement:
+INSERT INTO Transactions (order, ammount, originacc, destinationacc, create_at, order_at, description) VALUES('12925A', 322.38, '3232222222', '34242323234', NOW(), NOW(), 'Theater payment') [42102-200]
+2020-01-30 16:58:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTIONS" not found; SQL statement:
+INSERT INTO Transactions (order, ammount, originacc, destinationacc, create_at, order_at, description) VALUES('12925A', 393.38, '3234232432', '34242323234', NOW(), NOW(), 'Restaurant payment') [42102-200]
+2020-01-30 16:58:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTIONS" not found; SQL statement:
+INSERT INTO Transactions (order, ammount, originacc, destinationacc, create_at, order_at, description) VALUES('12925A', 322.38, '3232222222', '34242323234', NOW(), NOW(), 'Theater payment') [42102-200]

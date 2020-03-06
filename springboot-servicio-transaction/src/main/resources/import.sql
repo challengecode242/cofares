@@ -1,0 +1,2 @@
+INSERT INTO Transactions (order, ammount, originacc, destinationacc, create_at, order_at, description) VALUES('12925A', 393.38, '3234232432', '34242323234', NOW(), NOW(), 'Restaurant payment');
+INSERT INTO Transactions (order, ammount, originacc, destinationacc, create_at, order_at, description) VALUES('12925A', 322.38, '3232222222', '34242323234', NOW(), NOW(), 'Theater payment');
