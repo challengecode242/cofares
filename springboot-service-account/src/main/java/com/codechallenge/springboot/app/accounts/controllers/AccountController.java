@@ -20,12 +20,10 @@ import com.codechallenge.springboot.app.accounts.models.service.IAccountService;
 @RestController
 public class AccountController {
 
-
-	
 	@Autowired
 	private IAccountService accountService;
 	
-
+	
 	@GetMapping("/accounts")
     public List<Account> listar(){
     	return accountService.findAll();
